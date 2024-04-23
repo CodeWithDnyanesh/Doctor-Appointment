@@ -58,7 +58,7 @@ To begin using the DoctorOnCall System, follow these simple steps:
 # Setup Documentation
 
 ## Clone The Project
-git clone https://github.com/Ujjalzaman/Doctor-Appointment.git
+git clone https://github.com/CodeWithDnyanesh/Doctor-Appointment.git
 
 ### Install Frontend
 cd Doctor-Appointment
@@ -121,7 +121,7 @@ Note: Please note that these are general instructions for setting up an Express 
 - **Prisma**: A modern database toolkit for Node.js and TypeScript, used for database access and management.
 
  ## Project Screenshot
-![DoctorOnCall OverView](https://github.com/Ujjalzaman/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
+![DoctorOnCall OverView](https://github.com/dnyanesh/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
 
 ## Contributing:
 
@@ -149,4 +149,4 @@ Thank you for considering this project. If you have any questions, please do not
 
 
 ## Contact Me
-Portfolio: [https://ujjalzaman.netlify.app/](https://ujjalzaman.netlify.app/)
+Portfolio: [https://app.netlify.com/teams/dnyan1506/overview](https://app.netlify.com/teams/dnyan1506/overview)
